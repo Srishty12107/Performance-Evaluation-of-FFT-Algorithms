@@ -1,3 +1,6 @@
+%Srishty Saha
+%Nitika Khurana
+%Performance Evaluation of Cooley-Tukey FFT and Chirp Z-transform Algorithms on Audio Signals
 %fetches mat file and plot graphs
 plot(mse_fft(1:4));
 hold on;
