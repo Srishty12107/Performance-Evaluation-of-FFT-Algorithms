@@ -1,3 +1,4 @@
+%generates spectrogram of audio file
 [y,fs] = audioread('C:/Users/Srishty Saha/Desktop/da/fft-python-master/input/audio.wav');
 d=y;
 clear data;
