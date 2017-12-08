@@ -1,3 +1,6 @@
+%Srishty Saha
+%Nitika Khurana
+%Performance Evaluation of Cooley-Tukey FFT and Chirp Z-transform Algorithms on Audio Signals
 [y,fs] = audioread('C:/Users/Srishty Saha/Desktop/da/fft-python-master/input/audi1.wav');
 %plot(y,'f')
 %sound(x,fs);
